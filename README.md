@@ -1,7 +1,10 @@
 # Repositório da Imersão Dados com Python - Alura
 
-Este projeto é um dashboard interativo com dados tratados e limpos com filtros. Todos os dados tratados podem ser visualizados com vários modelos de gráficos.
-[Dashboard em nuvem para visualização](https://dados-python-alura-stricter.streamlit.app/)
+Este projeto é um dashboard interativo com dados tratados e limpos com filtros. Todos os dados tratados podem ser visualizados, filtrados e com várias opções de modelos gráficos. <br>O projeto foi montado usando as bibliotecas Pandas, Streamlit e Plotly.
+<br>Durante o aprendizado foi utilizado a plataforma do Google Colab.
+
+## Resultado
+Link para visualizar o resultado: [Dashboard - Streamlit](https://dados-python-alura-stricter.streamlit.app/)
 
 
 👇Para saber o conteúdo da imersão e como começar:
